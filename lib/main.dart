@@ -3,9 +3,20 @@ import 'package:flutter/material.dart';
 //The main function is the starting point for all our Flutter apps
 void main() {
   runApp(
-    const MaterialApp(
-      home: Center(
-        child: Text('Hello World'),
+    MaterialApp(
+      debugShowCheckedModeBanner: false,
+      home: Scaffold(
+        backgroundColor: Colors.blueGrey,
+        appBar: AppBar(
+          title: const Text('I Am Rich'),
+          backgroundColor: Colors.blueGrey[900],
+        ),
+        body: const Center(
+          child: Image(
+            image: NetworkImage(
+                'https://www.wassilykandinsky.net/images/works/69.jpg?version=7'),
+          ),
+        ),
       ),
     ),
   );

@@ -36,3 +36,4 @@ This app was written following the Udemy course, [Flutter Bootcamp with Dart](ht
 
 ## Acknowledgments
 - This app is in reference to the viral [I Am Rich](https://en.wikipedia.org/wiki/I_Am_Rich) app of 2008
+- Badges from [lleriayo](https://github.com/Ileriayo/markdown-badges)

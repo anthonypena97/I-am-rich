@@ -10,9 +10,9 @@ An App Displaying a Diamond
 
 <hr>
 
-This app is written with Flutter and leverages the [BLoC Library](https://bloclibrary.dev/#/) for observability of state changes
+This app is written with Flutter.
 
-This app was written following the BLoC Library [Counter Tutorial](https://bloclibrary.dev/#/fluttercountertutorial)
+This app was written following the Udemy course, [Flutter Bootcamp with Dart](https://www.udemy.com/share/101WB63@I7KpTocsdTfNyccwQV2UoebqwZlFV2Xpd5WY98MZMBfUmM9loW3brTbk3D0I4rV4dw==/)
 
 ## Table of Contents
 
@@ -30,6 +30,7 @@ This app was written following the BLoC Library [Counter Tutorial](https://blocl
 ## Usage
 
 - Open Terminal in folder directory
+- Open Android or iOS Simular
 - Run`flutter run`
 
 

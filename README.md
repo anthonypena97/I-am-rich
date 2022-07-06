@@ -1,6 +1,36 @@
+![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) |
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) |
+![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+
 # I-am-rich
 An App Displaying a Diamond
 
 <img width="298" alt="image" src="https://user-images.githubusercontent.com/79285555/177438438-0c037a49-a7cf-40ed-b135-6b273aa5fcbc.png">
 
-This app is in reference to the viral [I Am Rich](https://en.wikipedia.org/wiki/I_Am_Rich) app of 2008
+<hr>
+
+This app is written with Flutter and leverages the [BLoC Library](https://bloclibrary.dev/#/) for observability of state changes
+
+This app was written following the BLoC Library [Counter Tutorial](https://bloclibrary.dev/#/fluttercountertutorial)
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Acknowledgments](#acknowledgments)
+
+## Installation
+
+- Install flutter
+- Download this repository
+- Open Terminal in folder directory
+- Run `flutter pub get`, in order to download packages
+
+## Usage
+
+- Open Terminal in folder directory
+- Run`flutter run`
+
+
+## Acknowledgments
+- This app is in reference to the viral [I Am Rich](https://en.wikipedia.org/wiki/I_Am_Rich) app of 2008

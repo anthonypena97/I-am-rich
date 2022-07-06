@@ -13,8 +13,8 @@ void main() {
         ),
         body: const Center(
           child: Image(
-            image: NetworkImage(
-                'https://www.wassilykandinsky.net/images/works/69.jpg?version=7'),
+            image: AssetImage(
+                'images/diamond.png'),
           ),
         ),
       ),
